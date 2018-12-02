@@ -1,0 +1,1 @@
+print('sutra idem na mr koljena')
