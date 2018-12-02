@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d161fb5-57e4-431d-8971-8881d04584d5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/vjezba3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lists_Vjezbanje.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lists_Vjezbanje.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,18 +28,22 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vjezba3.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="31" selection-start-column="31" selection-end-column="31" />
+              <caret column="62" lean-forward="true" selection-start-column="62" selection-end-column="62" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Lists_Vjezbanje.py">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -54,6 +58,7 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="asmoljo &lt;smoljo.antonio@gmail.com&gt;" />
         <option value="asmoljo" />
       </list>
     </option>
@@ -75,10 +80,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/test1.py" />
-        <option value="$PROJECT_DIR$/Lists_Vjezbanje.py" />
         <option value="$PROJECT_DIR$/StringFormating_Vjezbanje.py" />
         <option value="$PROJECT_DIR$/vjezba2.py" />
         <option value="$PROJECT_DIR$/vjezba3.py" />
+        <option value="$PROJECT_DIR$/Lists_Vjezbanje.py" />
       </list>
     </option>
   </component>
@@ -134,7 +139,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test1">
+  <component name="RunManager" selected="Python.Lists_Vjezbanje">
+    <configuration name="Lists_Vjezbanje" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MojTestniUdemiProjekt-1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lists_Vjezbanje.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="test1" type="PythonConfigurationType" factoryName="Python">
       <module name="MojTestniUdemiProjekt-1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -148,6 +174,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="C:\Users\asmol\PycharmProjects\MojTestniUdemiProjekt-1\StringFormating_Vjezbanje.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="vjezba3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MojTestniUdemiProjekt-1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/vjezba3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -170,6 +217,12 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Lists_Vjezbanje" />
+        <item itemvalue="Python.vjezba3" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -210,7 +263,28 @@
       <option name="project" value="LOCAL" />
       <updated>1543697475904</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="kreiran file vjezba3">
+      <created>1543770447018</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1543770447018</updated>
+    </task>
+    <task id="LOCAL-00006" summary="dodan vjezba3 file">
+      <created>1543770983138</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1543770983138</updated>
+    </task>
+    <task id="LOCAL-00007" summary="dodani primjeri u Lists_Vjezbanje">
+      <created>1543771973240</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1543771973240</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -231,20 +305,20 @@
     <frame x="-7" y="-7" width="1550" height="846" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4992764" visible="true" weight="0.32650363" />
-      <window_info id="Structure" order="1" sideWeight="0.5007236" side_tool="true" weight="0.32650363" />
-      <window_info id="Favorites" order="2" sideWeight="0.5007236" side_tool="true" weight="0.32650363" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49892008" visible="true" weight="0.32650363" />
+      <window_info id="Structure" order="1" sideWeight="0.5010799" side_tool="true" weight="0.32650363" />
+      <window_info id="Favorites" order="2" sideWeight="0.5010799" side_tool="true" weight="0.32650363" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.33863965" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4990086" visible="true" weight="0.33863965" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39797395" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3299566" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="7" sideWeight="0.49834764" visible="true" weight="0.3299566" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4970258" weight="0.3299566" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.3299566" />
       <window_info anchor="bottom" id="Python Console" order="9" sideWeight="0.49966952" weight="0.3299566" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50165236" side_tool="true" visible="true" weight="0.3299566" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5009914" side_tool="true" visible="true" weight="0.33863965" />
       <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -328,17 +402,26 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="drugi commit" />
     <MESSAGE value="prvi commit" />
     <MESSAGE value="Kreiran py file za vjezbanje Lista i sitna izmjena u stringu u StringFormatting_Vjezbanje.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Kreiran py file za vjezbanje Lista i sitna izmjena u stringu u StringFormatting_Vjezbanje.py" />
+    <MESSAGE value="kreiran file vjezba3" />
+    <MESSAGE value="dodan vjezba3 file" />
+    <MESSAGE value="dodani primjeri u Lists_Vjezbanje" />
+    <option name="LAST_COMMIT_MESSAGE" value="dodani primjeri u Lists_Vjezbanje" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/vjezba2.py">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vjezba3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="62" lean-forward="true" selection-start-column="62" selection-end-column="62" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/StringFormating_Vjezbanje.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -348,12 +431,9 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Lists_Vjezbanje.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vjezba3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="31" selection-start-column="31" selection-end-column="31" />
+        <state relative-caret-position="368">
+          <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
         </state>
       </provider>
     </entry>
