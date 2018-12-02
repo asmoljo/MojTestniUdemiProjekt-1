@@ -1,1 +1,1 @@
-print('sutra idem na mr koljena')
+print('sutra idem na mr koljena, a jos nisam nalaze prikupio')
