@@ -27,4 +27,4 @@ print(a_list)
 
 a_list.pop(0)
 
-print(a_list)
+print(a_list) 
