@@ -24,3 +24,7 @@ print(a_list)
 a_list.pop(3)
 
 print(a_list)
+
+a_list.pop(0)
+
+print(a_list)
